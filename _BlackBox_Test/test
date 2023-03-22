@@ -1,0 +1,18 @@
+../assign2 < test01.input >actual01.output
+diff actual01.output test01.output
+../assign2 < test02.input >actual02.output
+diff actual02.output test02.output
+../assign2 < test03.input >actual03.output
+diff actual03.output test03.output
+../assign2 < test04.input >actual04.output
+diff actual04.output test04.output
+../assign2 < test05.input >actual05.output
+diff actual05.output test05.output
+../assign2 < test06.input >actual06.output
+diff actual06.output test06.output
+../assign2 < test07.input >actual07.output
+diff actual07.output test07.output
+../assign2 < test08.input >actual08.output
+diff actual08.output test08.output
+../assign2 < test09.input >actual09.output
+diff actual09.output test09.output
